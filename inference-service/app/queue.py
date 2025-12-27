@@ -1,0 +1,9 @@
+class QueueService:
+    def __init__(self):
+        pass
+
+    def enqueue(self, item):
+        pass
+
+    def dequeue(self):
+        pass

@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: inference-service-config
+data:
+  MODEL_NAME: "dummy_model"
+  LOG_LEVEL: "INFO"
